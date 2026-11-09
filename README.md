@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+I'm Calvin, a software engineer based in Philippines.
+
+A dedicated Computer Science student with a strong interest in full-stack development and web app creation
 <!--
 **SidyeCoder/SidyeCoder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
